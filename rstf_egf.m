@@ -4,8 +4,8 @@
 % ------------------------- M. Mesimeri 08/2020 --------------------------%
 clear;clc;close all;tic
 %% Parameters
-mspath='/home/mmesim/Desktop/WFH/2020_MAGNA_QK_STRONG_MOTION/astf_sm_01/ms';   %path to ms waveforms
-egfpath='/home/mmesim/Desktop/WFH/2020_MAGNA_QK_STRONG_MOTION/astf_sm_01/egf'; %path to egf waveforms
+mspath='example/ms';   %path to ms waveforms
+egfpath='example/egf'; %path to egf waveforms
 rlat=33.5;  %MS latitude
 rlon=-116.45; %MS longitude
 %SNR parameters
